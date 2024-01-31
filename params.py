@@ -1,0 +1,11 @@
+epoch = 5
+batch_size = 32
+image_size = 28
+patch_size = 7
+num_classes = 10
+channels = 1
+dim = 64
+depth = 6
+heads = 8
+mlp_dim = 128
+learning_rate = 0.003
